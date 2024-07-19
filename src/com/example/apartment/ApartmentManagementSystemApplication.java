@@ -10,6 +10,7 @@ import com.example.apartment.model.Reservation;
 import com.example.apartment.model.Resident;
 
 public class ApartmentManagementSystemApplication {
+	
     public static void main(String[] args) {
         // 예시 실행 코드
         ResidentController residentController = new ResidentController();
